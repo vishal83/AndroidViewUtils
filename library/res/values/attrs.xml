@@ -21,7 +21,7 @@
         <attr name="bgStrokeWidth" format="dimension" />
         <attr name="progressStrokeWidth" format="dimension" />
         <attr name="diameter" format="dimension" />
-        <attr name="showText" format="boolean" />
+        <attr name="showProgressText" format="boolean" />
 
         <!-- Std stuff -->
         <attr name="android:textSize" />
